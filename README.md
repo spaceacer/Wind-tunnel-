@@ -3,7 +3,7 @@
 
 🌀 Closed-Loop Wind Tunnel (Class 8 Science Fair – 2018)
 
-In 8th grade, I designed and built a working closed-loop wind tunnel for my school’s science fair to explore the fundamentals of aerodynamics in a hands-on way.
+In 8th grade, I designed and built (with the help of my father) a working closed-loop wind tunnel for my school’s science fair to explore the fundamentals of aerodynamics in a hands-on way.
 💡 Project Summary
 
     Constructed the tunnel using locally available materials with a focus on sustainability and cost-efficiency
