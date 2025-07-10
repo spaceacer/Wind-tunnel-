@@ -34,15 +34,7 @@ In 8th grade, I designed and built a working closed-loop wind tunnel for my scho
 
     Compact and efficient: Achieved meaningful demonstrations using minimal power and budget
 
-📷 Photos (optional – if you have them)
 
-Feel free to include:
-
-    Setup images of the wind tunnel
-
-    Objects being tested
-
-    Smoke flow patterns
 
 📚 What I Learned
 
