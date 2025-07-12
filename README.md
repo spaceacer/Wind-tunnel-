@@ -26,7 +26,7 @@ In 8th grade, I designed and built (with the help of my father) a working closed
 
 🛠️ Key Features
 
-    Closed-loop design: Recirculates air for smoother, more controlled flow
+    Closed-loop design: Recirculates air for smoother, more controlled flow (as can be seen in the image ![Closed-loop wind tunnel built for a science fair](closed_loop_tunnel.jpeg)
 
     Flow visualisation: Used smoke from 'dhup' sticks to make airflow visible in the test section
 
